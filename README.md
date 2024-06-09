@@ -1,9 +1,10 @@
 - 👋 Hi, I’m yahya shaik
 - 👀 I’m interested in web development 🙌 
-- 🌱 I’m currently learning python 
-- 
+- 🌱 I’m currently learning Javascript 
 - 📫 How to reach me email; whatsapp and other social platforms 
-- 
+- Whatsapp:0614724979
+-Email-webdesigns848@gmail.com
+-Instagram-webdev_786
 - ⚡ Fun fact: I'm a 3rd year IT student 
 
 <!---
